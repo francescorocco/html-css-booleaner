@@ -46,3 +46,33 @@ body{
     list-style-position: inside;
     margin-left: 3px;
 }
+
+#th-1{
+    width: 20%;
+    text-align: left;
+    color: white;
+}
+
+#th-2{
+    text-align: left;
+    width: 20%;
+    color: white;
+}
+
+#th-3{
+    text-align: left;
+    width: 55%;
+    color: white;
+}
+
+thead{
+    background-color: rgb(34, 168, 227);
+}
+
+table{
+    border-spacing: 0;
+}
+
+.tr-colorata{
+    background-color: rgb(176, 228, 241);
+}
