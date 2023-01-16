@@ -13,3 +13,21 @@ body{
     margin-left: 9px;
     margin-top: 29px;
 }
+
+#titolo-pagina{
+    font-size: 50px;
+}
+
+#testo-firma{
+    font-size: 25px;
+    color: grey;
+    margin-top: -30px;
+}
+
+#firma{
+    color: rgb(5, 176, 255)
+}
+
+#data-articolo{
+    font-size: 20px;
+}
