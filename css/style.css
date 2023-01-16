@@ -31,3 +31,18 @@ body{
 #data-articolo{
     font-size: 20px;
 }
+
+.immagini-articolo p{
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+.testo-evidenziato{
+    background-color: yellow;
+}
+
+.punti-chiave ul{
+    padding-left: 0;
+    list-style-position: inside;
+    margin-left: 3px;
+}
