@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.contenitore-intestazione{
+    background-color:rgb(79, 160, 253);
+    background-image: url(../img/pattern.png);
+    height: 91px;
+    background-size: 359px;
+}
+
+.contenitore-intestazione img{
+    height: 60%;
+    margin-left: 9px;
+    margin-top: 29px;
+}
